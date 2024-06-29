@@ -5,7 +5,12 @@ This Python script is part of a research project conducted by Team X under the s
 
 ## Abstract
 
-(TBD: Add )
+The project involves implementing a machine learning model designed to de-
+tect spoofing attempts, deployed on a Raspberry Pi hardware setup. The model
+analyze fingerprint images using innovative techniques like Ten Crop patch and
+crop processing. This approach not only expands the dataset but also enables
+the model to develop a keen eye for detail, effortlessly distinguishing genuine
+fingerprints from clever forgeries
 
 ## Project Details
 
@@ -136,7 +141,7 @@ SURGE/
 
 ### Complete Setup
 
-![Complete Setup](images/complete_setup.jpg)
+![Complete Setup](images/image1.jpg)
 *Caption: Example caption describing the complete setup of the Raspberry Pi, fingerprint sensor, and RGB display integrated into a compact device.*
 
 ## Functionality
@@ -145,7 +150,7 @@ SURGE/
 - **Delete Finger**: Deletes existing fingerprints from the sensor's database.
 - **Anti-Spoof Guard**: Toggle feature to enable or disable spoof detection using machine learning.
 - **Search Finger**: Searches for a fingerprint match in the system's database.
--**Back**:Return to main menu.
+- **Back**:Return to main menu.
 
 
 ## Functionality of Push Buttons
@@ -154,11 +159,14 @@ The Python script `fingerprint_sensor_display.py` utilizes push buttons connecte
 
 - **Button 1**: Enrolls a new fingerprint into the system.
 - **Button 2**: Deletes an existing fingerprint from the sensor's database.
-- **Button 3**: Toggles the anti-spoof guard feature, enabling or disabling spoof detection using machine learning.
+- **Button 3**: Toggles the anti-spoof guard feature, enabling or disabling spoof detection using      machine learning.
 - **Button 4**: Returns to the main menu after performing an operation or during idle states.
 
 These buttons are configured using the RPi.GPIO library in the script. Each button press triggers specific functions related to fingerprint operations, display updates, and system configurations.
 
+## Dataset
+
+- **CrossMatch**,**Greenbit** are used for cooperative framework.
 
 ## Acknowledgement
 
