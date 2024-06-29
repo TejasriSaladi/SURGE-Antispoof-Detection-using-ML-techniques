@@ -141,7 +141,7 @@ SURGE/
 
 ### Complete Setup
 
-![Complete Setup](images/image1.jpg)
+![Complete Setup](images/image.jpg)
 *Caption: Example caption describing the complete setup of the Raspberry Pi, fingerprint sensor, and RGB display integrated into a compact device.*
 
 ## Functionality
