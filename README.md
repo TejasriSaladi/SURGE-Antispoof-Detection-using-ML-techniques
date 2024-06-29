@@ -12,7 +12,7 @@ This Python script is part of a research project conducted by Team X under the s
 - **Project Title**: Integrating Fingerprint Sensor with RGB Display for Security Applications and Anti-Spoof Detection
 - **Project Team**: Fingerprint Team
 
- **Proffessor**: Professor Tushar Sandhan
+ - **Proffessor**: Professor Tushar Sandhan
   - Tejasri
   - Sritan
   - Sanya
