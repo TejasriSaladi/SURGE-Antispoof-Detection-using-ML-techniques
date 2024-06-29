@@ -149,7 +149,7 @@ SURGE/
 - **Enroll Finger**: Allows users to enroll new fingerprints into the system.
 - **Delete Finger**: Deletes existing fingerprints from the sensor's database.
 - **Anti-Spoof Guard**: Toggle feature to enable or disable spoof detection using machine learning.
-- **Search Finger**: Searches for a fingerprint match in the system's database.
+- **Search Finger**: Searches for a fingerprint match in the system's database.(searches continuosly)
 - **Back**:Return to main menu.
 
 
