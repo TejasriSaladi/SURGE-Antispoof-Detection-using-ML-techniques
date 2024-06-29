@@ -18,6 +18,7 @@ This Python script is part of a research project conducted by Team X under the s
   - Prateek
   - Naina
   - Riddhima
+  
  **Mentors**:
  -Aman
  -AjaySingh
